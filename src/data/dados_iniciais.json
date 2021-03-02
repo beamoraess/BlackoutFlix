@@ -1,0 +1,249 @@
+{
+  "categorias": [
+    {
+      "titulo": "Se Eduque",
+      "link": "https://www.youtube.com/watch?v=dU-hqu7aqj4&t=98s",
+      "cor": "#4b204b",
+      "link_extra": {
+        "text": "O que é Racismo?",
+        "url": "https://www.youtube.com/watch?v=dU-hqu7aqj4&t=98s"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Racismo?",
+          "url": "https://www.youtube.com/watch?v=dU-hqu7aqj4&t=98s"
+        },
+        {
+          "titulo": "Racismo Recreativo",
+          "url": "https://www.youtube.com/watch?v=FQnYejue-u0"
+        },
+        {
+          "titulo": "Racismo Estrutural",
+          "url": "https://www.youtube.com/watch?v=lryL8ZAMq-E"
+        },
+        {
+          "titulo": "Como Pessoas Brancas podem atuar na luta ANTI-RACISTA",
+          "url": "https://www.youtube.com/watch?v=6LclLZ5rdkc&t=2s"
+        },
+        {
+          "titulo": "O Brasil é um país racista?",
+          "url": "https://www.youtube.com/watch?v=tGONRo5L5Q4&ab_channel=CanalGNT"
+        },
+        {
+          "titulo": "Desigualdade Racial no Brasil",
+          "url": "https://www.youtube.com/watch?v=ufbZkexu7E0&ab_channel=Superinteressante"
+        },
+        {
+          "titulo": "Mito da Democracia Racial",
+          "url": "https://www.youtube.com/watch?v=d775DrTsgqM"
+        }
+      ]
+    },
+    {
+      "titulo": "Entrevistas e Palestras",
+      "cor": "#2b2f78",
+      "link_extra": {
+        "text": "Links para entender melhor o racismo no Brasil",
+        "url": "https://twitter.com/frentecdd/status/1254578087305580544"
+      },
+      "videos": [
+        {
+          "titulo": "Racismo no Brasil é o pior do planeta",
+          "url": "https://www.youtube.com/watch?v=vfPvxreXh6w"
+        },
+        {
+          "titulo": "80 tiros não é engano",
+          "url": "https://www.youtube.com/watch?v=cu4tX0Tz7TI"
+        },
+        {
+          "titulo": "Saúde da Populacão Negra",
+          "url": "https://www.youtube.com/watch?v=m1a3MuVhDYE"
+        },
+        {
+          "titulo": "Lugar de Fala",
+          "url": "https://www.youtube.com/watch?v=AINEmjM4Ki4"
+        }, 
+        {
+          "titulo": "A mulata que nunca chegou",
+          "url": "https://www.youtube.com/watch?v=02TBfKeBbRw&ab_channel=TEDxTalks"
+        },
+        {
+          "titulo": "Um novo olhar sobre a pessoa negra; novas narrativas importam",
+          "url": "https://www.youtube.com/watch?v=FYg-vQwm3Lo&ab_channel=TEDxTalks"
+        },
+        {
+          "titulo": "Eu Empregada Doméstica",
+          "url": "https://www.youtube.com/watch?v=_d_n-z3s8Lo&ab_channel=TEDxTalks"
+        },
+        {
+          "titulo": "Todo mundo sabe que o racismo existe no Brasil, mas ninguém se acha racista",
+          "url": "https://www.youtube.com/watch?v=Al365qzdjZE"
+        },
+        {
+          "titulo": "Guia Negro entrevista Fabrício Boliveira: 'A presença de negros na TV ainda é uma batalha'",
+          "url": "https://www.youtube.com/watch?v=xtMYl8DPaVY&ab_channel=CatracaLivre"
+        }
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#bc1069",
+      "link_extra": {
+        "text": "Assista e conheca o trabalho de cantores negros",
+        "url": "https://www.youtube.com/watch?v=Y_skfMVIkLA"
+      },
+      "videos": [
+        {
+          "titulo": "Bia Ferreira - Cota não é esmola",
+          "url": "https://www.youtube.com/watch?v=QcQIaoHajoM"
+        },
+        {
+          "titulo": "Liniker - De Ontem",
+          "url": "https://www.youtube.com/watch?v=Y_skfMVIkLA"
+        },
+        {
+          "titulo": "Luedji Luna - Banho de Folhas ",
+          "url": "https://www.youtube.com/watch?v=bmWm6I3aAqw"
+        },
+        {
+          "titulo": "As Bahias E A Cozinha Mineira - Das Estrelas",
+          "url": "https://www.youtube.com/watch?v=Sg6KiFq7I9w"
+        },
+        {
+          "titulo": "Rincon Sapiência - A Coisa Tá Preta",
+          "url": "https://www.youtube.com/watch?v=FsTTvHoLxEA&ab_channel=RinconSapienciaVEVO"
+        },
+        {
+          "titulo": "Racionais Mc's - Negro drama",
+          "url": "https://www.youtube.com/watch?v=1DybpDjuxBY&ab_channel=Yabagata"
+        },
+        {
+          "titulo": "Emicida - Mandume ft. Drik Barbosa, Amiri, Rico Dalasam, Muzzike, Raphão Alaafin",
+          "url": "https://www.youtube.com/watch?v=mC_vrzqYfQc&ab_channel=EmicidaOficialVEVO"
+        },
+        {
+          "titulo": "Seu Jorge, Sandra De Sá - Olhos Coloridos",
+          "url": "https://www.youtube.com/watch?v=QUoUtLUsACI&ab_channel=SeuJorgeVEVO"
+        },
+        {
+          "titulo": "Carne - Elza Soares",
+          "url": "https://www.youtube.com/watch?v=yktrUMoc1Xw&ab_channel=ElzaSoares"
+        },
+        {
+          "titulo": "Luiz Melodia - Negro Gato",
+          "url": "https://www.youtube.com/watch?v=5j_rQp6eWj8&ab_channel=RadialbyTheOrchard"
+        },
+        {
+          "titulo": "Xênia França - Breu",
+          "url": "https://www.youtube.com/watch?v=vRTUoJ7dVe8&ab_channel=GabiJacob"
+        },
+        {
+          "titulo": "Baco Exu do Blues - Faixa Preta",
+          "url": "https://www.youtube.com/watch?v=T13UomrmbPE&ab_channel=999"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Pantera Negra",
+          "url": "https://www.youtube.com/watch?v=wL4a4MafSjQ"
+        },
+        {
+          "titulo": "BlacKkKlansman",
+          "url": "https://www.youtube.com/watch?v=pFc6I0rgmgY"
+        },
+        {
+          "titulo": "Django",
+          "url": "https://www.youtube.com/watch?v=9vO2pd_y6s8"
+        },
+        {
+          "titulo": "O ódio que você semeia",
+          "url": "https://www.youtube.com/watch?v=Ad3Kk7-W3xw"
+        },
+        {
+          "titulo": "Um Limite entre Nós",
+          "url": "https://www.youtube.com/watch?v=IVBBJw5oFbU&ab_channel=ParamountBrasil"
+        },
+        {
+          "titulo": "Histórias Cruzadas",
+          "url": "https://www.youtube.com/watch?v=Cqn4XN21O1g&ab_channel=EdTrailers"
+        },
+        {
+          "titulo": "Estrelas Além do Tempo",
+          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os&ab_channel=20thCenturyStudiosBrasil"
+        },
+        {
+          "titulo": "Selma - Uma luta pela igualdade",
+          "url": "https://www.youtube.com/watch?v=EwvxtJwbRgM&ab_channel=FilmIsNowMovieTrailersInternational"
+        },
+        {
+          "titulo": "12 Anos de Escravidão",
+          "url": "https://www.youtube.com/watch?v=Ad3Kk7-W3xw"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "red",
+      "link_extra": {
+        "text": "Séries",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Cara Gente Branca",
+          "url": "https://www.youtube.com/watch?v=5zdX1ctXlH4"
+        },
+        {
+          "titulo": "Insecure",
+          "url": "https://www.youtube.com/watch?v=k7JY7e07oGA"
+        },
+        {
+          "titulo": "Atlanta",
+          "url": "https://www.youtube.com/watch?v=z7OB6CIZeOY&t=175s"
+        },
+        {
+          "titulo": "Criando Dion",
+          "url": "https://www.youtube.com/watch?v=GuFHKbsQp90"
+        },
+        {
+          "titulo": "Olhos que Condenam",
+          "url": "https://www.youtube.com/watch?v=ucec-PLnZ9M"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}

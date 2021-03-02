@@ -1,17 +1,36 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import Home from "./pages/Home";
+
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import CadastroVideo from './pages/cadastro/Video'
+import CadastroCategoria from "./pages/cadastro/Categoria";
+
+const Pagina404 = () => (
+  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
+    <h1>Ops, quebrou tudo :O</h1>
+    <p>
+      <a href="/">Você pode jogar ou voltar pra home :)</a>
+    </p>
+    <iframe
+      title="Flappy Bird Game"
+      src="https://mariosouto.com/flappy-bird-devsoutinho/"
+      width="340"
+      height="600" />
+  </div>
+)
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <BrowserRouter>
+    <Switch>
+      <Route path="/" component={Home} exact /> 
+      <Route path="/cadastro/categoria" component={CadastroCategoria} />
+      <Route path="/cadastro/video" component={CadastroVideo} />
+      <Route component={Pagina404} />
+    </Switch>
+    {/* <CadastroVideo />
+    <CadastroCategoria /> */}
+  </BrowserRouter>,
+  document.getElementById("root")
 );
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
